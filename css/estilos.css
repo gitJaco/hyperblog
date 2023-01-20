@@ -9,7 +9,6 @@ body {
 }
 
 .cabecera {
-    background-color: gray;
     width: 500px;
     margin: auto;
    
@@ -19,5 +18,4 @@ body {
     border: solid;
     width: 500px;
     margin: auto;
-    background-color: lightblue;
 }
