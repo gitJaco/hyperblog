@@ -28,6 +28,7 @@ body {
     justify-content: center;
     font-size: 40px;
     color: orange;
+    background-color: aqua;
     
    
 }
@@ -36,4 +37,5 @@ body {
     border: solid;
     width: 500px;
     margin: auto;
+    background-color: bisque;
 }
