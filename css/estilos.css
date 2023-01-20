@@ -1,11 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     color: rgb(37, 13, 13);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    
 }
 
 .cabecera {
