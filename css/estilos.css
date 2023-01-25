@@ -49,5 +49,14 @@ body {
     width: 500px;
     margin: auto;
     background-color: bisque;
-    border-radius: 0 0 50px 50px;
+
 }
+
+
+
+.footer {
+	border: solid;
+	background-color: orange;
+	border-radius: 0 0 50px 50px;
+}
+
