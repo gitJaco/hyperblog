@@ -12,3 +12,5 @@ Acabo de hacer otro cambio desde Jacobo88
 Este es el curriculum de su vida laboral
 
 Estoy haciendo push sin ser miembro del proyecto
+
+Calando los permisos
