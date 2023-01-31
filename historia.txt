@@ -15,4 +15,5 @@ Estoy haciendo push sin ser miembro del proyecto
 
 Calando los permisos
 
-Probando
+Desde Ubuntu
+
