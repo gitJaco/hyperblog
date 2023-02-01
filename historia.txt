@@ -3,21 +3,5 @@ Esta es la historia de Jacobo De Hoyos Reyes
 
 Jacobo De Hoyos tiene 34 años y nacion en Coahuila Mexico,
 
-<<<<<<< HEAD
 Hola
-=======
-Jacobo tiene un usario que dice 88
 
-Acabo de hacer un cambio desde Jacobo88
-
-Acabo de hacer otro cambio desde Jacobo88
-
-Este es el curriculum de su vida laboral
-
-Estoy haciendo push sin ser miembro del proyecto
-
-Calando los permisos
-
-Desde Ubuntu
-
->>>>>>> e64a5e506f008f8ba53444f88667ef1c6913dbb7
