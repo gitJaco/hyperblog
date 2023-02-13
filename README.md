@@ -9,6 +9,8 @@ En este curso vemos de todo
 - Trucos muy locos del profesor
 - Las personalidades multiples de Freddy
 - Creado por Jacobo De Hoyos
+- Windows
+- Para todas las edades
 
 Y como un recordatorio **Este readme.md es un chiste**
 
